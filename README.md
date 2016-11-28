@@ -1,24 +1,4 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**_Rails, Angular, Postgres, and Bootstrap Powerful, Effective, and Efficient Full-Stack Web Development_**<br/>
+by David Bryant Copeland<br/>_Version: P1.0 (January 2016)_

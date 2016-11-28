@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11c73520-3d57-4df7-a7fb-3f2a5c6576a8" name="Default" comment="" />
+    <list default="true" id="11c73520-3d57-4df7-a7fb-3f2a5c6576a8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="shine.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -25,7 +29,24 @@
     <favorites_list name="shine" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -36,6 +57,7 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/views/dashboard/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -48,9 +70,9 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="274" />
+    <option name="height" value="641" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -179,7 +201,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="/usr/local/bin/ruby" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="inde&#9;FILE&#9;file:///Users/HAKEON/Dropbox/ruby/rails_projects/shine/app/views/dashboard/index.html.erb&#10;applica&#9;FILE&#9;file:///Users/HAKEON/Dropbox/ruby/rails_projects/shine/app/controllers/application_controller.rb&#10;shine/G&#9;FILE&#9;file:///Users/HAKEON/Dropbox/ruby/rails_projects/shine/Gemfile&#10;routes&#9;FILE&#9;file:///Users/HAKEON/Dropbox/ruby/rails_projects/shine/config/routes.rb" />
+    <property name="SearchEverywhereHistoryKey" value="REA&#9;FILE&#9;file:///Users/HAKEON/Dropbox/ruby/rails_projects/shine/README.md&#10;inde&#9;FILE&#9;file:///Users/HAKEON/Dropbox/ruby/rails_projects/shine/app/views/dashboard/index.html.erb&#10;applica&#9;FILE&#9;file:///Users/HAKEON/Dropbox/ruby/rails_projects/shine/app/controllers/application_controller.rb&#10;shine/G&#9;FILE&#9;file:///Users/HAKEON/Dropbox/ruby/rails_projects/shine/Gemfile&#10;routes&#9;FILE&#9;file:///Users/HAKEON/Dropbox/ruby/rails_projects/shine/config/routes.rb" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -350,15 +372,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1479776581066</updated>
-      <workItem from="1479776583993" duration="6964000" />
+      <workItem from="1479776583993" duration="8199000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6964000" />
+    <option name="totallyTimeSpent" value="8199000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="274" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="641" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -474,6 +496,17 @@
         <state relative-caret-position="119">
           <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
